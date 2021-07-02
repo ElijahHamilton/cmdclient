@@ -1,6 +1,6 @@
 # Compiling
 To start, you will need a copy of the voicetext library.
-For windows, the library is vt_eng.dll
+For windows, the library is vt_eng.dll (dll not provided for legal reasons)
 
 To compile on msys2 (32 bit):  gcc cmdclient.c vt_eng.dll -o cmdclient
 
