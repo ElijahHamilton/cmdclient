@@ -12,3 +12,6 @@ To generate a raw s16 audio file: cmdclient.exe "Input Text Here" output.pcm 100
 First argument: input text
 Second argument: output audio file
 Third argument: output audio speed
+
+# File Layout
+![alt text](https://raw.githubusercontent.com/ElijahHamilton/cmdclient/main/Capture.PNG)
