@@ -7,7 +7,7 @@ To compile on msys2 (32 bit):  gcc cmdclient.c vt_eng.dll -o cmdclient
 Other OSes supported soon!
 
 # Cmd Usage
-To generate a raw s16 audio file: ./cmdclient.exe "Input Text Here" output.pcm 100
+To generate a raw s16 audio file: cmdclient.exe "Input Text Here" output.pcm 100
 
 First argument: input text
 Second argument: output audio file
